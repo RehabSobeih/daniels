@@ -487,7 +487,6 @@ textarea:focus{
     outline-width: 0;
 }
 textarea{
-      margin-left: 95px; 
     border: 0;
     background: #f4f4f4;
     margin-top: 10px;
